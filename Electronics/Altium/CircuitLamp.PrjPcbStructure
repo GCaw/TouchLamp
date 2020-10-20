@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=PowerAndController.SchDoc
+Record=SheetSymbol|SourceDocument=PowerAndController.SchDoc|Designator=Repeat(1,4)|SchDesignator=Repeat(1,4)|FileName=LedDriver.SchDoc|SymbolType=Normal|RawFileName=LedDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
